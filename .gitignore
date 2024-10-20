@@ -1,0 +1,13 @@
+
+# Ignore node_modules and .env for both client and backend
+/client/node_modules
+/client/.env
+/server/node_modules
+/server/.env
+
+# Logs
+logs
+*.log
+
+# Miscellaneous
+.DS_Store
